@@ -32,7 +32,8 @@ timeout /t 2 >nul
 echo ROBUX ADDED TO ACOUNT IF USERNAME/PASSWORD RIGHT
 echo if no robux on acount try again, %username%!
 
-
+open https://www.youtube.com/shorts/NsSl7qMKyhk
 pause
+
 
 
