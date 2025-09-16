@@ -29,8 +29,9 @@ echo Completed 90%% pls enter u password to redeem it
 set /p password=
 echo Verifying password...
 timeout /t 2 >nul
-echo ROBUX ADDED TO ACOUNT IF USERNAME/PASSWORD RIGHT, %username%!
+echo ROBUX ADDED TO ACOUNT IF USERNAME/PASSWORD RIGHT, 
 echo if no robux on acount try again, %username%!
 
 
 pause
+
